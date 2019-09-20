@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerUIDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerUI.Controllers.TestApiController.GetAll">
+            <summary>
+            Retrieve the employee by their ID.
+            </summary>
+        </member>
+    </members>
+</doc>

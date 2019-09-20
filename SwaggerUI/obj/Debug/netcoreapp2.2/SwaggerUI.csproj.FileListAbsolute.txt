@@ -1,0 +1,14 @@
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.csprojAssemblyReference.cache
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.csproj.CoreCompileInputs.cache
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.RazorAssemblyInfo.cache
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.RazorAssemblyInfo.cs
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.AssemblyInfoInputs.cache
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.AssemblyInfo.cs
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUI.RazorTargetAssemblyInfo.cache
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\bin\Debug\netcoreapp2.2\SwaggerUIDemo.deps.json
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\bin\Debug\netcoreapp2.2\SwaggerUIDemo.runtimeconfig.json
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\bin\Debug\netcoreapp2.2\SwaggerUIDemo.runtimeconfig.dev.json
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\bin\Debug\netcoreapp2.2\SwaggerUIDemo.dll
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\bin\Debug\netcoreapp2.2\SwaggerUIDemo.pdb
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUIDemo.dll
+D:\Projects\Trial projects\SwaggerUI\SwaggerUI\obj\Debug\netcoreapp2.2\SwaggerUIDemo.pdb
